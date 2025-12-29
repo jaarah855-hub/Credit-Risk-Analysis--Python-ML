@@ -42,7 +42,7 @@ Pricing and monitoring implications
 
 Portfolio-level decision support
 
-## 🏗️ Data Architecture (Bronze / Silver / Gold)
+## Data Architecture (Bronze / Silver / Gold)
 
 This project uses a simple Medallion Architecture, aligned with the actual implementation.
 
@@ -78,7 +78,7 @@ Purpose: Provide a clean, analysis-ready dataset for Python and Power BI.
 
 👉 Note: Aggregations and modeling are intentionally performed in Python, not in the warehouse.
 
-## 🧠 Data Analysis (Python)
+## Data Analysis (Python)
 
 The core analysis is performed in Python using Jupyter Notebook.
 
@@ -130,7 +130,7 @@ Jupyter Notebook
 
 GitHub
 
-## ✅ Why this project
+## Why this project
 
 This project was built to:
 
@@ -140,4 +140,4 @@ Apply statistics to real financial risk problems
 
 Demonstrate an end-to-end analytics workflow
 
-Showcase skills relevant to data analytics and risk-focused internships
+Showcase skills relevant to risk-focused analysis
