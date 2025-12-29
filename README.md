@@ -76,7 +76,6 @@ No additional aggregation or modeling
 
 Purpose: Provide a clean, analysis-ready dataset for Python and Power BI.
 
-👉 Note: Aggregations and modeling are intentionally performed in Python, not in the warehouse.
 
 ## Data Analysis (Python)
 
