@@ -4,7 +4,7 @@ Expected Loss, Tail Risk & Pricing Signals (10,000 Loans)
 
 ## 📌 Project Overview
 
-This project analyzes a portfolio of 10,000 funded loans with the objective of understanding credit risk at both loan-level and portfolio-level.
+This project analyzes a large portfolio of funded loans with the objective of understanding credit risk at both loan-level and portfolio-level.
 
 Rather than focusing on loan approval (pre-origination), the project answers post-origination business questions, such as:
 
