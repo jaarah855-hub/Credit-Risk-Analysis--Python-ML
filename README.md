@@ -1,35 +1,46 @@
-# Credit Risk Portfolio Analysis Project
+# 📊 Credit Risk Portfolio Analysis
 
-Welcome to the Credit Risk Portfolio Analysis repository 📊
-This project is a data analytics portfolio project focused on credit risk analysis for a portfolio of funded loans.
-
-The objective is to analyze portfolio risk, expected losses, pricing signals, and tail risk using a realistic analytics workflow that combines data warehousing, Python analysis, and BI visualization.
+Expected Loss, Tail Risk & Pricing Signals (10,000 Loans)
 
 ## 📌 Project Overview
 
-This project analyzes a dataset of 10,000 funded loans to understand:
+This project analyzes a portfolio of 10,000 funded loans with the objective of understanding credit risk at both loan-level and portfolio-level.
 
-How risk is distributed across the portfolio
+Rather than focusing on loan approval (pre-origination), the project answers post-origination business questions, such as:
 
-Which borrower segments contribute most to losses
+How risky is the portfolio?
 
-How expected losses behave under different scenarios
+Where do losses come from?
 
-What pricing signals can be inferred from risk metrics
+Which borrower segments drive tail risk?
 
-The project focuses on post-origination analysis and portfolio monitoring rather than loan approval.
+How can pricing and risk signals be improved?
 
-## 🎯 Objectives
+The project is structured end-to-end, from data warehousing (Bronze / Silver / Gold) to statistical analysis in Python and business-oriented visualization in Power BI.
 
-Measure Probability of Default (PD) and Expected Loss (EL)
+## 🎯 Business Objectives
 
-Analyze loss distributions and tail risk
+Measure portfolio credit risk
 
-Run simulations to understand portfolio behavior under uncertainty
+Default rates
 
-Derive pricing signals based on risk and expected losses
+Expected Loss (EL)
 
-Prepare data for BI reporting
+Loss distribution and tail behavior
+
+Identify risk drivers
+
+Income, utilization, installment burden
+
+Loan grade and borrower characteristics
+
+Provide actionable insights
+
+Segment-level risk signals
+
+Pricing and monitoring implications
+
+Portfolio-level decision support
 
 ## 🏗️ Data Architecture (Bronze / Silver / Gold)
 
